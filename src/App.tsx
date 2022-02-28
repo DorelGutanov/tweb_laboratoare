@@ -2,7 +2,7 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 import 'antd/dist/antd.css'
-// import {MyLayout} from './Layouts/MyLayout';
+
 import {HeaderLayout} from "./Layouts/HeaderLayout";
 import Mycontent from "./Layouts/Mycontent";
 import {Footer} from "antd/es/layout/layout";
